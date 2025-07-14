@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba584ec3a2599f4499922e02fd645cf8, type: 3}
+  m_Name: AtkCard
+  m_EditorClassIdentifier: 
+  <CardName>k__BackingField: "\uBE60\uB8E8"
+  <CardCost>k__BackingField: 50
+  <CardColor>k__BackingField: {r: 1, g: 0, b: 0, a: 0.5019608}
+  <CardMethodObject>k__BackingField: {fileID: 9187264076895736544, guid: 11f2063ccd1293e4ba7cf9446315bdce, type: 3}
+  cardDesc: "\uACF5\uACA9\uB825\uC774\n\uC99D\uAC00\uD569\uB2C8\uB2E4."
